@@ -2,7 +2,7 @@
 
 Baseline is based on Microsoft Base Line Security Analyzer GPO.
 
-
 Links Reference
-* https://technet.microsoft.com/en-us/security/cc297183.aspx
-* https://technet.microsoft.com/en-us/security/cc184924
+
+* [Security Tools & Downloads for IT Pros] (https://technet.microsoft.com/en-us/security/cc297183.aspx)
+* [Microsoft Baseline Security Analyzer] (https://technet.microsoft.com/en-us/security/cc184924)
